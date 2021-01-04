@@ -9,7 +9,6 @@ import {
 const Player = () => {
   return (
     <div className="player">
-      <h2>Player</h2>
       <div className="time-control">
         <p className="start-time">Start Time</p>
         <input type="range" />
