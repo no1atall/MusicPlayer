@@ -7,7 +7,7 @@ const chillHop = () => {
       cover:
         "https://chillhop.com/wp-content/uploads/2020/09/c209a7df7b9bc133dfff73ce86ebc3c57c2b73dd-1024x1024.jpg",
       artist: "Sleepy Fish",
-      audio: "https://mp3.chillhop.com/server.php/?mp3=10032",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=10032",
       color: ["#1f1b32", "#87b6c7"],
       id: uuidv4(),
       active: true,
@@ -20,7 +20,7 @@ const chillHop = () => {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10075",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
-      active: false,
+      active: true,
     },
     {
       name: "Daylight",
